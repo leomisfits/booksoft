@@ -1,0 +1,10 @@
+Booksoft:
+
+
+Classes:
+  Terão classes para vários produtos, haverá hierarquias e diferentes formas para cada peça.
+   exemplo:
+   Uma classe mãe chamada Product que terá atributos de valor, identificação, quantidade, e métodos que aplicam descontos, alteram o valor etc..;
+   e classes filhas como Magazine ou Book que terão atributos adicionais como título.
+  
+ 
